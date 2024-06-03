@@ -3,10 +3,10 @@
 Objective: Automate and enhance the validation system for purchase orders (POs).
 
 Key tasks:
-1.Identify common errors in POs.
-2.Define new evaluation rules or refine existing ones.
-3.Implement these rules using Python.
-4.Test the system to ensure it catches errors effectively.
+Identify common errors in POs.
+Define new evaluation rules or refine existing ones.
+Implement these rules using Python.
+Test the system to ensure it catches errors effectively.
 
 
 2. Identify Common Errors and Define Validation Rules
